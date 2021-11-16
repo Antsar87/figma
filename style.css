@@ -423,6 +423,7 @@ button {
 
 .section__flex--box {
   display: flex;
+  gap: 2rem;
 }
 
 @media (min-width: 867px) {
